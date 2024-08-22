@@ -1,0 +1,8 @@
+us\dingl\autoComp\commands\GiveAutoCompCommand.class
+us\dingl\autoComp\listeners\AutoCompRightClickListener.class
+us\dingl\autoComp\commands\GiveRealCompDiamondBlockCommand.class
+us\dingl\autoComp\AutoComp.class
+us\dingl\autoComp\listeners\AutoCompInventoryRightClickListener.class
+us\dingl\autoComp\listeners\DetectIfAutoCompInInventory.class
+us\dingl\autoComp\commands\GiveRealCompEmeraldBlockCommand.class
+us\dingl\autoComp\listeners\AutoCompPlaceListener.class
