@@ -1,0 +1,15 @@
+us\dingl\fixedenchants\GUI\CreateGUI.class
+us\dingl\fixedenchants\WS\GetGUIs.class
+us\dingl\fixedenchants\GUI\ItemData.class
+us\dingl\fixedenchants\FixedEnchants.class
+us\dingl\fixedenchants\GUI\GUIListener.class
+us\dingl\fixedenchants\Commands\StartWebServerCommand.class
+us\dingl\fixedenchants\GUI\GetUIContents$1.class
+us\dingl\fixedenchants\GUI\GetUIContents.class
+us\dingl\fixedenchants\Listeners\RightClickEnchantTableListener.class
+us\dingl\fixedenchants\Commands\StopWebServerCommand.class
+us\dingl\fixedenchants\GUI\GUIManager.class
+us\dingl\fixedenchants\GUI\GetUIContents$2.class
+us\dingl\fixedenchants\GUI\GetUIContents$3.class
+us\dingl\fixedenchants\Commands\GetGUIsCommand.class
+us\dingl\fixedenchants\WS\WebServerHandler.class

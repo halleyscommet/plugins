@@ -1,0 +1,185 @@
+{
+  "row1": [
+    {
+      "item": "minecraft:gray_stained_glass_pane",
+      "stack": 1,
+      "weight": 9,
+      "properties": {
+        "no_item_tooltip": true,
+        "cancel_event": true
+      }
+    }
+  ],
+  "row2": [
+    {
+      "item": "minecraft:gray_stained_glass_pane",
+      "stack": 1,
+      "weight": 1,
+      "properties": {
+        "no_item_tooltip": true,
+        "cancel_event": true
+      }
+    },
+    {
+      "item": "minecraft:air",
+      "stack": 1,
+      "weight": 1,
+      "properties": {
+        "cancel_event": false
+      }
+    },
+    {
+      "item": "minecraft:gray_stained_glass_pane",
+      "stack": 1,
+      "weight": 1,
+      "properties": {
+        "no_item_tooltip": true,
+        "cancel_event": true
+      }
+    },
+    {
+      "item": "minecraft:enchanted_book",
+      "stack": 1,
+      "weight": 5,
+      "properties": {
+        "cancel_event": true,
+        "add_id": true
+      }
+    },
+    {
+      "item": "minecraft:gray_stained_glass_pane",
+      "stack": 1,
+      "weight": 1,
+      "properties": {
+        "no_item_tooltip": true,
+        "cancel_event": true
+      }
+    }
+  ],
+  "row3": [
+    {
+      "item": "minecraft:gray_stained_glass_pane",
+      "stack": 1,
+      "weight": 1,
+      "properties": {
+        "no_item_tooltip": true,
+        "cancel_event": true
+      }
+    },
+    {
+      "item": "minecraft:experience_bottle",
+      "stack": 1,
+      "weight": 1,
+      "properties": {
+        "display_name": "Enchant",
+        "cancel_event": true
+      }
+    },
+    {
+      "item": "minecraft:gray_stained_glass_pane",
+      "stack": 1,
+      "weight": 1,
+      "properties": {
+        "no_item_tooltip": true,
+        "cancel_event": true
+      }
+    },
+    {
+      "item": "minecraft:enchanted_book",
+      "stack": 1,
+      "weight": 5,
+      "properties": {
+        "cancel_event": true,
+        "add_id": true
+      }
+    },
+    {
+      "item": "minecraft:gray_stained_glass_pane",
+      "stack": 1,
+      "weight": 1,
+      "properties": {
+        "no_item_tooltip": true,
+        "cancel_event": true
+      }
+    }
+  ],
+  "row4": [
+    {
+      "item": "minecraft:gray_stained_glass_pane",
+      "stack": 1,
+      "weight": 1,
+      "properties": {
+        "no_item_tooltip": true,
+        "cancel_event": true
+      }
+    },
+    {
+      "item": "minecraft:enchanting_table",
+      "stack": 1,
+      "weight": 1,
+      "properties": {
+        "no_item_tooltip": true,
+        "cancel_event": true
+      }
+    },
+    {
+      "item": "minecraft:gray_stained_glass_pane",
+      "stack": 1,
+      "weight": 1,
+      "properties": {
+        "no_item_tooltip": true,
+        "cancel_event": true
+      }
+    },
+    {
+      "item": "minecraft:enchanted_book",
+      "stack": 1,
+      "weight": 5,
+      "properties": {
+        "cancel_event": true,
+        "add_id": true
+      }
+    },
+    {
+      "item": "minecraft:gray_stained_glass_pane",
+      "stack": 1,
+      "weight": 1,
+      "properties": {
+        "no_item_tooltip": true,
+        "cancel_event": true
+      }
+    }
+  ],
+  "row5": [
+    {
+      "item": "minecraft:gray_stained_glass_pane",
+      "stack": 1,
+      "weight": 9,
+      "properties": {
+        "no_item_tooltip": true,
+        "cancel_event": true
+      }
+    }
+  ],
+  "row6": [
+    {
+      "item": "minecraft:air",
+      "stack": 1,
+      "weight": 4
+    },
+    {
+      "item": "minecraft:barrier",
+      "stack": 1,
+      "weight": 1,
+      "properties": {
+        "display_name": "Close",
+        "close_gui": true
+      }
+    },
+    {
+      "item": "minecraft:air",
+      "stack": 1,
+      "weight": 4
+    }
+  ]
+}

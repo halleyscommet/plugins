@@ -1,0 +1,26 @@
+name: FixedEnchants
+version: '1.0'
+main: us.dingl.fixedenchants.FixedEnchants
+api-version: '1.21'
+
+commands:
+  getguis:
+    description: Gets all of the current GUIs registered in the plugin.
+    usage: /<command>
+    permission: fixedenchants.getguis
+  startwebserver:
+    description: Starts the web server.
+    usage: /<command>
+    permission: fixedenchants.admin
+  stopwebserver:
+    description: Stops the web server.
+    usage: /<command>
+    permission: fixedenchants.admin
+
+permissions:
+  fixedenchants.getguis:
+    default: true
+    description: Allows the player to check all of the current GUIs registered in the plugin.
+  fixedenchants.admin:
+    default: op
+    description: Allows the player to use all of the commands in the plugin.

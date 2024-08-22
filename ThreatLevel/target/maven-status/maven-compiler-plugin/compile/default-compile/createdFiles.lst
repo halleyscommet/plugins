@@ -1,0 +1,12 @@
+us\dingl\threatLevel\Listeners\PlayerLoginListener$2.class
+us\dingl\threatLevel\Listeners\PlayerLoginListener.class
+us\dingl\threatLevel\Commands\SetOptedInCommand.class
+us\dingl\threatLevel\Listeners\CraftAttemptListener.class
+us\dingl\threatLevel\Commands\SetOptedOutCommand.class
+us\dingl\threatLevel\Listeners\PlayerLoginListener$1.class
+us\dingl\threatLevel\Listeners\PlayerDeathListener.class
+us\dingl\threatLevel\Commands\SetWarTimeCommand.class
+us\dingl\threatLevel\Commands\CheckThreatLevelCommand.class
+us\dingl\threatLevel\Commands\ThreatLevelCommand.class
+us\dingl\threatLevel\ItemStackSplitter.class
+us\dingl\threatLevel\ThreatLevel.class

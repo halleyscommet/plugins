@@ -1,0 +1,35 @@
+name: AutoComp
+version: '1.1-sneak'
+main: us.dingl.autoComp.AutoComp
+api-version: '1.21'
+
+commands:
+  giveautocomp:
+    description: Give the player the AutoComp
+    usage: /giveautocomp
+    permission: autocomp.give
+    aliases:
+      - gac
+      - giveac
+  giverealcompdiamondblock:
+    description: Give the player the RealCompDiamondBlock
+    usage: /giverealcompdiamondblock
+    permission: realcomp.give
+    aliases:
+      - grcdb
+      - givercdb
+  giverealcompemeraldblock:
+    description: Give the player the RealCompEmeraldBlock
+    usage: /giverealcompemeraldblock
+    permission: realcomp.give
+    aliases:
+      - grceb
+      - giverceb
+
+permissions:
+  autocomp.give:
+    description: Allows the player to give themselves the AutoComp
+    default: op
+  realcomp.give:
+    description: Allows the player to give themselves the RealCompDiamondBlock
+    default: op

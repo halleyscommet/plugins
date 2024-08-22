@@ -1,0 +1,15 @@
+name: BookBurner
+version: '1.0'
+main: us.dingl.bookBurner.BookBurner
+api-version: '1.21'
+
+commands:
+  giveshield:
+    description: Gives the player a "SHIELD OF THE SMP" item
+    usage: /<command>
+    permission: bookburner.giveshield
+
+permissions:
+  bookburner.giveshield:
+    description: Allows the player to use the giveshield command
+    default: op

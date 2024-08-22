@@ -1,0 +1,34 @@
+name: ThreatLevel
+version: '1.1'
+main: us.dingl.threatLevel.ThreatLevel
+api-version: '1.21'
+
+commands:
+  optin:
+    description: Opt in to the threat level system
+    usage: /optin
+    permission: threatlevel.opt
+  optout:
+    description: Opt out of the threat level system
+    usage: /optout
+    permission: threatlevel.opt
+  threatlevel:
+    description: Set the threat level of a player
+    usage: /threatlevel <set/add/remove/optin/optout> <player> <level>
+    permission: threatlevel.op
+  setwartime:
+    description: Set the server to be in a state of war
+    usage: /setwartime
+    permission: threatlevel.op
+  checkthreatlevel:
+    description: Check the threat level of a player
+    usage: /checkthreatlevel <player>
+    permission: threatlevel.opt
+
+permissions:
+  threatlevel.opt:
+    description: Allows the player to opt in or out of the threat level system
+    default: true
+  threatlevel.op:
+    description: Allows the player to set the threat level of a player
+    default: op
